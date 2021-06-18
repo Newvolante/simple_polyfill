@@ -1,0 +1,1 @@
+log('Printing from a log method');
